@@ -100,7 +100,7 @@
 
 // transport layer protocols
 #include "protocols/TransportLayer/TransportLayer.h"
-#include "protocols/HTTP/HTTP.h"
+//#include "protocols/HTTP/HTTP.h"
 #include "protocols/MQTT/MQTT.h"
 
 // only create Radio class when using RadioShield
